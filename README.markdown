@@ -100,3 +100,10 @@ _c'est pas très écolo_
 [**Olivier AZEAU**](https://agilitateur.azeau.com/) Le script de l'atelier  [Si t'es pas SOLID, t'es pas AGILE](https://agilitateur.azeau.com/public/agilitateur/doc/Si%20t%27es%20pas%20SOLID%2C%20t%27es%20pas%20agile.pdf)
 
 [**Wikipedia**](https://en.wikipedia.org/wiki/SOLID) notamment pour les [References](https://en.wikipedia.org/wiki/SOLID#References)
+
+- https://www.codavel.com/2018/08/01/solid-open-closed-principle/
+- https://www.tomdalling.com/blog/software-design/solid-class-design-the-single-responsibility-principle/
+- https://www.tomdalling.com/blog/software-design/solid-class-design-the-open-closed-principle/
+- https://www.tomdalling.com/blog/software-design/solid-class-design-the-liskov-substitution-principle/
+- https://www.tomdalling.com/blog/software-design/solid-class-design-the-interface-segregation-principle/
+- https://www.tomdalling.com/blog/software-design/solid-class-design-the-dependency-inversion-principle/
